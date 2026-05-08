@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.НаборыСостоянийЗадач" id="a9829a9e-9971-4f8c-82f5-f8024f700fa2" configVersion="9bd0573c81224d400400ffce5ff0a09d4c96c0ee"/>
+		<Metadata name="Catalog.НаборыСостоянийЗадач.ManagerModule" id="a9829a9e-9971-4f8c-82f5-f8024f700fa2.3" configVersion="e86be0eb61dbce7bef32d643b6ad3bea4abacd2e"/>
+		<Metadata name="Catalog.НаборыСостоянийЗадач.Predefined" id="a9829a9e-9971-4f8c-82f5-f8024f700fa2.1c" configVersion="0cf2676fb42e5af478b7afffe11ff60c157273fb"/>
+		<Metadata name="Catalog.РезультатыДействийЗадач" id="fd26ba70-124c-44dd-8546-9c49f06ef1fa" configVersion="52ab0d4f3282ca8b1f0261d19e8995dc7b5a27fb"/>
+		<Metadata name="Catalog.РезультатыДействийЗадач.ManagerModule" id="fd26ba70-124c-44dd-8546-9c49f06ef1fa.3" configVersion="73e0d562e980d378109a8fa8b2ca2a9bfaeb558d"/>
+		<Metadata name="Catalog.РезультатыДействийЗадач.Predefined" id="fd26ba70-124c-44dd-8546-9c49f06ef1fa.1c" configVersion="790287ea8317c298b98bc50e7b5b496f29e96680"/>
+		<Metadata name="Catalog.СостоянияУчастниковЗадач" id="1759d86c-7846-4d68-9386-3cc00dc00994" configVersion="2670665cc8402e4eacdb73ff3f5a067d88a0fd69"/>
+		<Metadata name="Catalog.СостоянияУчастниковЗадач.ManagerModule" id="1759d86c-7846-4d68-9386-3cc00dc00994.3" configVersion="9ece2070a03daae548484f1c9429a299a210ee01"/>
+		<Metadata name="Catalog.СостоянияУчастниковЗадач.Predefined" id="1759d86c-7846-4d68-9386-3cc00dc00994.1c" configVersion="71a2fe64e7ac1b4faa853bcf23bc5c8466719530"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыДокументооборот" id="4455d39e-4385-42f3-8948-182f83238792" configVersion="ce7f4cfbbb1b5d02af0128514335469432a7b388"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыДокументооборот.Module" id="4455d39e-4385-42f3-8948-182f83238792.0" configVersion="de1a75b202c6f109abbc10e5fd5598fbd8967e70"/>
+		<Metadata name="CommonModule.ОбработкаЗапросовXDTOПереопределяемый" id="502c7456-70aa-4630-ad18-920614c11bc3" configVersion="2311198d4f92a8fc184b1c3a2e5b4d595a29e00e"/>
+		<Metadata name="CommonModule.ОбработкаЗапросовXDTOПереопределяемый.Module" id="502c7456-70aa-4630-ad18-920614c11bc3.0" configVersion="fddd6d9b05bb15ea881afa2f945f7e3198ef56c0"/>
+		<Metadata name="CommonModule.РаботаСЗадачами" id="1d2655db-ca04-4179-91db-89134766384d" configVersion="c13370fc92c1d15294a9a9bdef17b024fad07b7c"/>
+		<Metadata name="CommonModule.РаботаСЗадачами.Module" id="1d2655db-ca04-4179-91db-89134766384d.0" configVersion="ba38016c7e140018ac4e4c7276c33c7558b71714"/>
+		<Metadata name="CommonModule.РаботаСПроцессамиПоОбработкамОбъектовКлиентСервер" id="7e23e852-460d-414e-9800-02d5656eaff3" configVersion="fc6c10dd960b395c547ea2d9a55a3ea247e8bd5f"/>
+		<Metadata name="CommonModule.РаботаСПроцессамиПоОбработкамОбъектовКлиентСервер.Module" id="7e23e852-460d-414e-9800-02d5656eaff3.0" configVersion="4dccbe2a15012f90ecbcde85ecc5b3638e44edbd"/>
+		<Metadata name="Configuration.ЕвченкоЧетвертаяКнопка" id="c7bdb585-a0f0-468f-8c25-90f131dc815f" configVersion="8d1b313b5ff349da51c53783440bfe1d93061209"/>
+		<Metadata name="Enum.РезультатыСогласования" id="c476990f-68d5-49c3-b84c-12d8f5bdb70d" configVersion="733b8a134038dd4fdc1abf85be381dc35138b01a">
+			<Metadata name="Enum.РезультатыСогласования.EnumValue.ЧетвертаяКнопка" id="e6b32900-ac9e-4152-8658-7dd2a2f0ec9b"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="983fc019-da92-4a48-bb4c-34bd749e79d1" configVersion="a158d442d0bf18d365be077b4066f83401dce1de"/>
+		<Metadata name="Role.ЕвченкоЧетвертаяКнопка_ОсновнаяРоль" id="543ede8b-08b9-4c65-9b58-bd19ee8d8400" configVersion="ab07952b80f22a0a4fdc030d3e099296bc093293"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

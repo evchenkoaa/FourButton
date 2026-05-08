@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="fd26ba70-124c-44dd-8546-9c49f06ef1fa">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РезультатыДействийЗадач" category="Object">
+				<xr:TypeId>8a613b88-b2ea-4ab7-a4b7-6562d78d3752</xr:TypeId>
+				<xr:ValueId>3bc73e95-2638-4488-9ae9-050a91927a67</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РезультатыДействийЗадач" category="Ref">
+				<xr:TypeId>83bd2dab-bce6-4a1f-a932-871ccebb4d22</xr:TypeId>
+				<xr:ValueId>c9957cc6-d9d8-47c7-8046-b77c158aeb34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РезультатыДействийЗадач" category="Selection">
+				<xr:TypeId>2d72de12-f654-4572-a5c0-8e37814798ed</xr:TypeId>
+				<xr:ValueId>5f8c5b6b-1286-4c1d-947f-36f7f1e853fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РезультатыДействийЗадач" category="List">
+				<xr:TypeId>da867833-3e2f-4781-9a3e-cb7f8fda1fc8</xr:TypeId>
+				<xr:ValueId>d56e476a-e4b0-4d7a-b2eb-544ed526d19a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РезультатыДействийЗадач" category="Manager">
+				<xr:TypeId>a7eabcaa-0270-4f3f-828e-0e7bf1a381a6</xr:TypeId>
+				<xr:ValueId>da33ec25-9299-44b5-ba74-160f33a6869b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:PropertyState>
+				<xr:Property>Predefined</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+			<xr:PropertyState>
+				<xr:Property>ManagerModule</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РезультатыДействийЗадач</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3646b75c-e5e9-4318-856b-1a4adde429f1</ExtendedConfigurationObject>
+			<CodeLength>0</CodeLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="1759d86c-7846-4d68-9386-3cc00dc00994">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СостоянияУчастниковЗадач" category="Object">
+				<xr:TypeId>320c0975-ba2b-4749-b3d6-d5114a3523a6</xr:TypeId>
+				<xr:ValueId>a6657352-34b1-4b68-bbbd-53d41f54a017</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СостоянияУчастниковЗадач" category="Ref">
+				<xr:TypeId>d82615cc-5157-4173-93bb-1d144ed38d39</xr:TypeId>
+				<xr:ValueId>fa8dead3-7c8a-4459-b118-a861482af862</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СостоянияУчастниковЗадач" category="Selection">
+				<xr:TypeId>748553e3-683e-4907-9417-c3281a082f88</xr:TypeId>
+				<xr:ValueId>84e13ce2-89cc-4e11-92ab-975b62b6365a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СостоянияУчастниковЗадач" category="List">
+				<xr:TypeId>99efe0bd-fa29-407e-a19a-c14c8da1f23c</xr:TypeId>
+				<xr:ValueId>4b02227b-0828-4992-93c0-63596ee06535</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СостоянияУчастниковЗадач" category="Manager">
+				<xr:TypeId>165c7dd9-ab86-46ee-9a88-5f9d2f2684b6</xr:TypeId>
+				<xr:ValueId>66ed2116-8c90-48bf-919a-ebf7c6ad7f49</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:PropertyState>
+				<xr:Property>Predefined</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+			<xr:PropertyState>
+				<xr:Property>ManagerModule</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СостоянияУчастниковЗадач</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>26a60ef2-ce04-4f45-aff0-9b48ea306e00</ExtendedConfigurationObject>
+			<CodeLength>0</CodeLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
